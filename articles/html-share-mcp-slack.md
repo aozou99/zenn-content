@@ -3,7 +3,7 @@ title: "HTML社内共有サービスにおけるMCP認証とSlackプレビュー
 emoji: "🔐"
 type: "tech"
 topics: ["mcp", "oauth", "slack", "aws", "auth0"]
-published: false
+published: true
 ---
 
 :::message
